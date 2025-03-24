@@ -28,11 +28,11 @@
 **3. Impact of Music on Mental Health:**
    - There is significant improvment(74.21%) in Mental health by Listening to Music By choice or taking a Music Therapy.
     
-4. **Average Depression Levels:**
+**4. Average Depression Levels:**
    - The average depression levels are highest for Music Genre Lofi for Respondents with improved Mental Health.
    - The average depression levels are highest for Music Genre Classical for Respondents with worsen Mental Health.
 
-5. **Listening Patterns:**
+**5. Listening Patterns:**
    - The data indicated that most individuals listen to music during work or study, and a majority prefer listening to music for relaxation and stress relief.
 
 
